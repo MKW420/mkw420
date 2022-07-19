@@ -1,6 +1,6 @@
 ##  Look who landed!  I'm Mathilda Shongwe.👋
 
-Hi there, I am Mathilda - A freelancing Web developer  and CS/IT Hons student  majoring in Data-warehouses, Database, Computer Security and Information System Engineering currently learning React and Python. Currently growing my skills and participating in 100 Devs bootcamp and close to completing my CS Hons degree.
+Hi there, I am Mathilda - A freelancing Web developer  and CS/IT Hons student currently learning React and Python. Currently growing my skills and participating in 100 Devs bootcamp and close to completing my CS Hons degree.
 
 ### My values
 - 📚 Always open to learning
@@ -13,7 +13,7 @@ Hi there, I am Mathilda - A freelancing Web developer  and CS/IT Hons student  m
 - 🌱 I’m currently learning python and React
 - 👯 I’m looking to collaborate on back-end projects
 - 💬 Ask me about anything about coding!
-- 📫 How to reach me: Twitter-@cookingcodegirl
+- 📫 How to reach me: Twitter-@cookingcodegirl 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I have a CS/IT Degree and I know other programming languages, C#, Java, C++.
+- ⚡ Fun fact:  I have a CS/IT Degree and I know other programming languages, C#, Java, C++.
 
