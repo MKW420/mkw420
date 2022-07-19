@@ -1,5 +1,5 @@
 ###  I'm glad you landed here! I'm Mathilda Shongwe, Welcome👋
-![woman-g563a571d5_1920](https://user-images.githubusercontent.com/61581315/179805656-84ec5e00-4941-490c-9d33-8d89da97967e.png)
+<img src="![woman-g563a571d5_1920](https://user-images.githubusercontent.com/61581315/179805656-84ec5e00-4941-490c-9d33-8d89da97967e.png)" height="100px">
 
 
 
