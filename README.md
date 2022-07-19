@@ -9,7 +9,7 @@ Hi there, I am Mathilda - A freelancing Web developer  and CS/IT Hons student cu
 
 ### About Me
 
-- 🔭 I’m currently working on my portfiolo wbsite and back-end projects.
+- 🔭 I’m currently working on my portfiolo website and back-end projects.
 - 🌱 I’m currently learning python and React
 - 👯 I’m looking to collaborate on back-end projects
 - 💬 Ask me about anything about coding!
