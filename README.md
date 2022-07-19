@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on back-end projects
 - 💬 Ask me about anything about coding!
 - 📫 How to reach me: Twitter-@cookingcodegirl
-- 😄 Pronouns: ...
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I know other programming languages, C#, Java, C++ .
 
