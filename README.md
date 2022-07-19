@@ -6,10 +6,8 @@ Hi there, I am Mathilda - A freelancing Web developer  and CS/IT Hons student  m
 - 📚 Always open to learning
 - 🔮 Sharing my knowledge with others in Tech
 - 🙌 Collaborating with Indidivuals with the same interests.
-
-
-
-Here are some ideas to get you started:
+-
+### About Me
 
 - 🔭 I’m currently working on my portfiolo wbsite and back-end projects.
 - 🌱 I’m currently learning python and React
