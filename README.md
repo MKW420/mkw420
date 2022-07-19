@@ -1,7 +1,8 @@
 ##  I'm glad you landed here! I'm Mathilda Shongwe.👋
 
+![Teal Green Cyber Neon Gaming Livestream Twitch Banner](https://user-images.githubusercontent.com/61581315/179812152-d9671d51-e512-426d-8d5b-27680f20653e.png)
 
-Hi there,I'm Mathilda - A freelancing Web developer working on back-end project while learning React and Python. Currently growing my skills and participating in 100 Devs bootcamp and close to completing my CS Hons degree.
+Hi there, I am Mathilda - A freelancing Web developer  and CS/IT Hons student  majoring in Data-warehouses, Database, Computer Security and Information System Engineering currently learning React and Python. Currently growing my skills and participating in 100 Devs bootcamp and close to completing my CS Hons degree.
 
 ### My values
 - 📚 Always open to learning
