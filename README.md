@@ -1,4 +1,4 @@
-##  Look who landed!  I'm Mathilda Shongwe.👋
+##  Look who landed! Welcome🔮
 
 Hi there, I am Mathilda - A freelancing Web developer  and CS/IT Hons student currently learning React and Python. Currently growing my skills and participating in 100 Devs bootcamp and close to completing my CS Hons degree.
 
