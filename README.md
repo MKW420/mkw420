@@ -1,4 +1,4 @@
-##  I'm glad you landed here! I'm Mathilda Shongwe.👋
+##  Look who landed!  I'm Mathilda Shongwe.👋
 
 Hi there, I am Mathilda - A freelancing Web developer  and CS/IT Hons student  majoring in Data-warehouses, Database, Computer Security and Information System Engineering currently learning React and Python. Currently growing my skills and participating in 100 Devs bootcamp and close to completing my CS Hons degree.
 
