@@ -1,5 +1,5 @@
+![unicorn-g021bc0451_640](https://user-images.githubusercontent.com/61581315/179819631-1dbcda0d-cc63-4c2b-9b6d-1e84b78d010c.png)
 
-![deer-gff6040157_640](https://user-images.githubusercontent.com/61581315/179819297-3ae45870-40fe-4bdf-87b9-a61cf381a9f0.jpg)
 
 #  Look who landed! Welcome🔮
 Hi there, I am Mathilda - A freelancing Web developer  and CS/IT Hons student currently learning React and Python. Currently growing my skills and participating in 100 Devs bootcamp and close to completing my CS Hons degree.
