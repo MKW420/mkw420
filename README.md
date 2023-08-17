@@ -1,7 +1,7 @@
 #  Look who landed! Welcome🔮
 ![Teal Green Cyber Neon Gaming Livestream Twitch Banner(1)](https://user-images.githubusercontent.com/61581315/179823280-1edacd49-40e6-47aa-bdc4-b93af9d70a79.png)
 
-Hi there, I am Mathilda - I'm a Software developer currently learning React and Python. Currently growing my skills and participating in 100 Devs bootcamp .
+Hi there, I am Mathilda - I'm a Software developer currently learning Vue.js. 
 
 
 
@@ -16,7 +16,8 @@ Hi there, I am Mathilda - I'm a Software developer currently learning React and 
 - 🌱 I’m currently learning python and React
 - 👯 I’m looking to collaborate on back-end projects
 - 💬 Ask me about anything about coding!
-- 📫 How to reach me: 
+- 📫 How to reach me:
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact:  I have a CS/IT Degree and I know other programming languages, C#, Java, C++.
+- ⚡Frameworks I know: Vue.js. and .NET
+- ⚡ Fun fact:  I have two CS/IT Degrees and I know other programming languages, C#, Java, C++, python.
 
